@@ -10,7 +10,7 @@ Making a field invisible. disable or returning a different editor rather than te
 
 ## Installation
 To run this project you need maven 3.x, minimum java 8.
-so run 
+Run in command line: 
 `mvn clean install`
 import it in either intellij or eclipse and it should work.
 
